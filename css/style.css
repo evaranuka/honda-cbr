@@ -1,0 +1,13 @@
+.white{
+    color: white;
+}
+.cbr-pic img{
+    height: 200px;
+    width: 250px;
+}
+.filled{
+    color: orangered;
+}
+.empty{
+    color: orangered;
+}
